@@ -1,0 +1,1 @@
+# Laboratorio1_Text_Mining_Imaging_Recognition
